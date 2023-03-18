@@ -1,2 +1,10 @@
-# Data Science repository
-Using Google Colab, Python, Spark, PySpark, Numpy, Pandas & more.
+# Big Data Analysis
+
+## Technologies Used
+
+
+- Python
+- Spark
+- PySpark
+- Numpy
+- Pandas
